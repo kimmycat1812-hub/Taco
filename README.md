@@ -49,7 +49,7 @@ footer {
 <body>
 
 <header>
-<h1>Juan's Taqueria 🌮</h1>
+<h1> TaqueriaBTM 🌮</h1>
 <p>Authentic Mexican Street Tacos</p>
 </header>
 
@@ -62,17 +62,13 @@ footer {
 <section id="menu">
 <h2>Menu</h2>
 
-<div class="menu-item">Tacos - $2.50</div>
-<div class="menu-item">Burritos - $8.00</div>
-<div class="menu-item">Quesadillas - $6.50</div>
-<div class="menu-item">Tortas - $7.50</div>
-<div class="menu-item">Horchata - $3.00</div>
+
 
 </section>
 
 <section id="about">
 <h2>About Us</h2>
-<p>Welcome to Juan's Taqueria! We serve fresh authentic Mexican food made daily.</p>
+<p>Welcome to TaqueriaBTM! We serve fresh authentic Mexican food made daily.</p>
 </section>
 
 <section id="location">
@@ -83,7 +79,7 @@ footer {
 </section>
 
 <footer>
-<p>© 2026 Juan's Taqueria</p>
+<p>© 2026 TaqueriaBTM</p>
 </footer>
 
 </body>
